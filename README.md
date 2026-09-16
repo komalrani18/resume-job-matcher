@@ -92,6 +92,5 @@ approach, not a large-scale benchmark.
 
 Python · scikit-learn (TF-IDF, cosine similarity) · Pandas · Streamlit
 
-## Author
 
-Komal Rani — [github.com/yourhandle](https://github.com/yourhandle)
+
