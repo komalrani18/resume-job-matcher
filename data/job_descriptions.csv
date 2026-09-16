@@ -1,0 +1,20 @@
+jd_id,title,text
+J1,Machine Learning Intern (NLP),"We are looking for a Machine Learning Intern with strong Python
+            skills and hands-on experience with scikit-learn. Experience with
+            NLP techniques such as TF-IDF, text vectorization, and cosine
+            similarity is a big plus. Familiarity with Pandas, NumPy, and
+            building simple Streamlit demos is desired. You will help build
+            and evaluate text-matching and classification models."
+J2,Backend Developer (Java),"Seeking a Backend Developer proficient in Java and Spring Boot to
+            design and maintain REST APIs. Experience with relational
+            databases (MySQL/PostgreSQL), Docker, and CI/CD pipelines
+            required. Knowledge of AWS and unit testing frameworks like JUnit
+            is a plus."
+J3,Data Analyst,"Looking for a Data Analyst comfortable with SQL, Python, and
+            Pandas to build reporting dashboards and support data-driven
+            decision-making. Experience with Tableau or Power BI and basic
+            statistics (A/B testing, hypothesis testing) preferred."
+J4,Frontend Engineer,"Hiring a Frontend Engineer skilled in React, JavaScript, and CSS
+            to build responsive, accessible web interfaces. Experience with
+            REST/GraphQL API integration and testing frameworks like Jest is
+            required. Design collaboration experience with Figma is a plus."
