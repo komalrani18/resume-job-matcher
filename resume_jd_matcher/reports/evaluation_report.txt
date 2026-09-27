@@ -1,0 +1,30 @@
+Resume-JD Matcher — Evaluation Report
+========================================
+Pairs evaluated: 20
+
+Point-biserial correlation (score vs. label): 0.9582  (p=3.152e-11)
+Top-1 ranking accuracy: 100.0%
+Precision / Recall / F1 @ top-20% threshold (score >= 11.75): 1.00 / 1.00 / 1.00
+
+Per-pair breakdown
+----------------------------------------
+  R1_data_scientist      vs JD1_data_scientist      score= 24.49  label=1
+  R1_data_scientist      vs JD2_backend_developer   score=  1.26  label=0
+  R1_data_scientist      vs JD4_devops_engineer     score=  1.20  label=0
+  R1_data_scientist      vs JD3_frontend_developer  score=  0.00  label=0
+  R2_backend_engineer    vs JD2_backend_developer   score= 28.86  label=1
+  R2_backend_engineer    vs JD4_devops_engineer     score=  8.56  label=0
+  R2_backend_engineer    vs JD3_frontend_developer  score=  2.76  label=0
+  R2_backend_engineer    vs JD1_data_scientist      score=  1.18  label=0
+  R3_frontend_engineer   vs JD3_frontend_developer  score= 27.92  label=1
+  R3_frontend_engineer   vs JD2_backend_developer   score=  1.50  label=0
+  R3_frontend_engineer   vs JD4_devops_engineer     score=  1.05  label=0
+  R3_frontend_engineer   vs JD1_data_scientist      score=  0.41  label=0
+  R4_devops_engineer     vs JD4_devops_engineer     score= 40.23  label=1
+  R4_devops_engineer     vs JD2_backend_developer   score=  5.11  label=0
+  R4_devops_engineer     vs JD1_data_scientist      score=  0.74  label=0
+  R4_devops_engineer     vs JD3_frontend_developer  score=  0.61  label=0
+  R5_product_manager     vs JD1_data_scientist      score=  5.84  label=0
+  R5_product_manager     vs JD3_frontend_developer  score=  3.11  label=0
+  R5_product_manager     vs JD2_backend_developer   score=  0.96  label=0
+  R5_product_manager     vs JD4_devops_engineer     score=  0.00  label=0
